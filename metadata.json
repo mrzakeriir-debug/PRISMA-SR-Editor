@@ -1,0 +1,6 @@
+{
+  "name": "Systematic Review Editor & PRISMA Assistant",
+  "description": "A comprehensive app to design, screen, extract, and assess systematic reviews following PRISMA standards. Formulates PICO questions, runs AI screening, extract data, evaluates Risk of Bias, and exports full reports as Word files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
